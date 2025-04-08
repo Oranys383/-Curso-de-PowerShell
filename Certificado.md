@@ -1,1 +1,1 @@
-![[Introduction to PowerShell-course.pdf]]
+Introduction to PowerShell-course.pdf
